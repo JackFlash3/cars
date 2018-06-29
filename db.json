@@ -2,16 +2,6 @@
     { "_id": 1, "model": "Audi 4", "engine": 2.0, "infotainment":true, "design": "white", "location": "Berlin"},
     { "_id": 2, "model": "Audi 5", "engine": 2.2, "infotainment":true, "design": "black", "location": "Munic" },
     { "_id": 3, "model": "Audi 7", "engine": 2.8, "infotainment":true, "design": "white", "location": "Frankfurt" }
-  ],
-"users": [
-  { "_id": 1, "name": "John", "gender": "male", "age":34},
-  { "_id": 2, "name": "George", "gender": "male", "age":45 },
-  { "_id": 3, "name": "Mick", "gender": "male", "age":27}
-],
-"demands": [
-  { "_id": 1, "car_id": 1, "user_id": 3, "pick_up":"Berlin", "drop_off": "Berlin", "earliest_pickup": "8:00", "latest_dropoff": "18:00"},
-  { "_id": 2, "car_id": 2, "user_id": 2, "pick_up":"Berlin", "drop_off": "Berlin", "earliest_pickup": "8:00", "latest_dropoff": "18:00"},
-  { "_id": 3, "car_id": 3, "user_id": 1, "pick_up":"Berlin", "drop_off": "Berlin", "earliest_pickup": "8:00", "latest_dropoff": "18:00"}
-]
+  ]
 }
 
